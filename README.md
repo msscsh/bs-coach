@@ -17,8 +17,11 @@
 * Brawl Ball\
 -Dê preferência por chutes na posição oposta em que você está andando.(juke)\
 -Ganhe controle do mapa antes de atacar\
--Não chute a bola no aliado para perder munição\
+-Não chute a bola no aliado pois ele pode perder munição\
+	>Por um lado, segurar o passe tempo demais poderá fazer com que seu aliado perca uma chance de gol
+	>Dê preferencia pelo passe ao lado do aliado
 -Chute a bola no inimigo para roubar munição
+	>Observe o momento em que cabe usar esta estratégia ou poderá entregar a partida
 
 * Bounty\
 -Guarde as jogadas arriscadas o maior tempo possível
