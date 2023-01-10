@@ -1,4 +1,4 @@
-# BS
+# Brawl Stars
 
 ## Mapa
 * Knockout\
