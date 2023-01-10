@@ -2,30 +2,31 @@
 
 ## Mapa
 * Knockout\
-	-Após uma kill, dê preferência por reagrupar(recall)\
-	-Espere o veneno, se o time não está com a vantagem de range
+-Após uma kill, dê preferência por reagrupar(recall)\
+-Espere o veneno, se o time não está com a vantagem de range
 
 * Hot Zone\
-	-Jogue na defensiva em mapas com mais de uma zona.\
-	-Defenda uma zona não conquistada pelo inimigo até obter a vantagem no placar.\
-	-Reagrupe, ao invés de voltar para um 3x1 na zona(recall)
+-Jogue na defensiva em mapas com mais de uma zona.\
+-Defenda uma zona não conquistada pelo inimigo até obter a vantagem no placar.\
+-Reagrupe, ao invés de voltar para um 3x1 na zona(recall)
 
 * Heist\
-	-Force o time a ficar na defensiva permanecendo vivo próximo do cofre.(sustain)\
-	-Evite brawlers com low DPS para que não carreguem o super(stingy)
+-Force o time a ficar na defensiva permanecendo vivo próximo do cofre.(sustain)\
+-Evite brawlers com low DPS para que não carreguem o super(stingy)
 
 * Brawl Ball\
-	-Dê preferência por chutes na posição oposta em que você está andando.(juke)\
-	-Ganhe controle do mapa antes de atacar\
-	-Não chute a bola no aliado para perder munição\
-	-Chute a bola no inimigo para roubar munição
+-Dê preferência por chutes na posição oposta em que você está andando.(juke)\
+-Ganhe controle do mapa antes de atacar\
+-Não chute a bola no aliado para perder munição\
+-Chute a bola no inimigo para roubar munição
 
 * Bounty\
 -Guarde as jogadas arriscadas o maior tempo possível
 
 * Gem grab\
 -Mantenha o maior controle de mapa após as dez gemas\
--Se você é o carry de gemas, jogue agressivo
+-Se você é o carry de gemas, mantenha a agressividade para controlar o pit de gemas.
+	>Não esqueça de manter a atenção redobrada na execução desta contra "grabers"(Tara, Gênio e Gray)
 
 ## Gadget
 -É possível ver se brawlers possuem gadget/ou não\
